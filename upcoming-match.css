@@ -1,0 +1,28 @@
+
+/* 
+Match ficture
+*/
+.matches{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid-gap: 20px;
+}
+.match{
+    border: 1px solid rgba(128, 128, 128, 0.427);
+    border-radius: 5%;
+    padding: 20px;
+}
+.match-1{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+.match-details{
+    text-align: center;
+}
+.match-details h1{
+    font-size: 18px;
+    font-weight: 900;
+
+}
+/* match ficture end */
